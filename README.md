@@ -2,4 +2,4 @@
 Primer repositorio en github
 
 ## descripcion
-lorem
+aprendiendo sobre git & github
